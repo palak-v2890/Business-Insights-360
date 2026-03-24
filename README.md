@@ -15,7 +15,7 @@
 
 The goal was to transform raw data into actionable insights across **Finance, Sales, Marketing, and Supply Chain**, helping stakeholders monitor performance, identify risks, and drive strategic growth.
 
-🔗 **Live Dashboard:** *[Power BI Dashboard]* (https://app.powerbi.com/view?r=eyJrIjoiN2M4ZTVlMzUtOGM1YS00M2RmLWFkYmEtNTNkYzc3Yjk1MzdmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)    
+🔗 **Live Dashboard:** *[Power BI Dashboard]*(https://app.powerbi.com/view?r=eyJrIjoiN2M4ZTVlMzUtOGM1YS00M2RmLWFkYmEtNTNkYzc3Yjk1MzdmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)    
 
 ---
 
