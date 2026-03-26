@@ -15,7 +15,7 @@
 
 The goal was to transform raw data into actionable insights across **Finance, Sales, Marketing, and Supply Chain**, helping stakeholders monitor performance, identify risks, and drive strategic growth.
 
-🔗 **Live Dashboard:** *[Power BI Dashboard]*(https://app.powerbi.com/view?r=eyJrIjoiN2M4ZTVlMzUtOGM1YS00M2RmLWFkYmEtNTNkYzc3Yjk1MzdmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)    
+🔗 **Live Dashboard:** (https://app.powerbi.com/view?r=eyJrIjoiN2M4ZTVlMzUtOGM1YS00M2RmLWFkYmEtNTNkYzc3Yjk1MzdmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)    
 
 ---
 
@@ -137,8 +137,7 @@ Develop an interactive Power BI dashboard to provide real-time, data-driven insi
 
 ## 🧭 Dashboard Structure
 
-- 🏠 Home (Navigation Hub)  
-- ℹ️ Info  
+- 🏠 Home (Navigation Hub)   
 - 💰 Finance View  
 - 📈 Sales View  
 - 📣 Marketing View  
@@ -148,8 +147,18 @@ Develop an interactive Power BI dashboard to provide real-time, data-driven insi
 ---
 
 ## 📸 Dashboard Preview
-> *(Add screenshots here to showcase your work — highly recommended for portfolio impact)*
-
+- 🏠 Home (Navigation Hub) 
+> ![home view](https://github.com/user-attachments/assets/5c620ff7-dc91-44fd-b0df-74f9484446be)
+- 💰 Finance View  
+![finance](https://github.com/user-attachments/assets/bae055bb-a54d-4f61-bf85-451a7265e670)
+- 📈 Sales View
+ ![sales view](https://github.com/user-attachments/assets/8bb81c50-9a5c-4980-af6c-36232b454be9)
+- 📣 Marketing View 
+![marketing view](https://github.com/user-attachments/assets/4fde5b15-4a80-423d-a188-a58d3da5e5d9)
+- 🚚 Supply Chain View  
+![supply chain view](https://github.com/user-attachments/assets/ece9f276-72f5-4e1f-92bd-b7d3a34e1b31)
+- 🧑‍💼 Executive View
+![executive view](https://github.com/user-attachments/assets/9063ffa6-efc3-4194-9f72-0718f2252589)
 ---
 
 ## 📈 Key Learnings
