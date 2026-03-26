@@ -15,7 +15,7 @@
 
 The goal was to transform raw data into actionable insights across **Finance, Sales, Marketing, and Supply Chain**, helping stakeholders monitor performance, identify risks, and drive strategic growth.
 
-🔗 **Live Dashboard:** (https://app.powerbi.com/view?r=eyJrIjoiN2M4ZTVlMzUtOGM1YS00M2RmLWFkYmEtNTNkYzc3Yjk1MzdmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)    
+🔗 **Live Dashboard:** [Dashboard link](https://app.powerbi.com/view?r=eyJrIjoiN2M4ZTVlMzUtOGM1YS00M2RmLWFkYmEtNTNkYzc3Yjk1MzdmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)    
 
 ---
 
@@ -179,6 +179,6 @@ It demonstrates how structured data, strong modeling, and effective visualizatio
 
 ## 🙌 Let's Connect
 If you found this project interesting or have feedback, feel free to connect or reach out!
-- 📧: vermapalak28@icloud.com
-- Linkedin: www.linkedin.com/in/palak2890
+- 📧: [PALAK's email](vermapalak28@icloud.com)
+- Linkedin: [PALAK's LinkedIn](www.linkedin.com/in/palak2890)
 
